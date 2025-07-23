@@ -1,0 +1,6 @@
+The script will:
+
+Check all disks' SMART status.
+Parse system logs for disk errors.
+Send an email alert if issues are found.
+Prompt you to repair affected partitions interactively.
