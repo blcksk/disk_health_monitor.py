@@ -1,0 +1,7 @@
+disk-health-monitor/
+│
+├── disk_health_monitor.py
+├── config_example.py
+├── LICENSE
+├── README.md
+└── .gitignore
